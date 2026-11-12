@@ -20,7 +20,7 @@ menu = st.sidebar.radio(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.info("💡 문의 사항이나 기능 추가 요청은 관리자에게 문의하세요.")
+st.sidebar.info("💡 문의 사항이나 기능 추가 요청은 박희준과장에게 문의하세요.")
 
 
 # --- [메인 화면 1] 주간 사용 리미트캠 (기존 기능) ---
